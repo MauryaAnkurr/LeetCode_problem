@@ -1,0 +1,39 @@
+Find the legth of the longest substring without repeating characters
+
+First Approach:
+___________________________________________________________________
+def lengthOfLongestSubstring(self, s):
+        dictionary=  {}
+        
+        lenght = len(s)
+        
+        current_length =0
+        highest_length =0
+        
+        i=0
+        if s.isspace():
+            return 1
+        if lenght==1:
+            return 1
+        
+        start_index =0
+        while i <= lenght-1:
+            current_char = s[i]
+            if current_char not in dictionary:
+                dictionary[current_char] = True
+                current_length = current_length+1
+                i = i+1
+                
+            else:
+                dictionary=  {}
+                highest_length =max(highest_length,current_length)
+                current_length =0
+                i =start_index+1
+                start_index =start_index+1
+            
+            
+        return max(highest_length,current_length)
+        
+  ___________________________________________________________________
+
+
