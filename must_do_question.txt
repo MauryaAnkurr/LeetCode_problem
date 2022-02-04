@@ -1,0 +1,164 @@
+Overall Practice Link
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies
+Arrays
+Pair Sum 
+Two Pointers Approach
+Using Hashmaps
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/110297/offering/1280152
+Overlapping Intervals
+Sorting
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/110297/offering/1280151
+Sort 0 1 2
+Dutch National Flag Algorithm
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/110297/offering/1280153
+Search In Rotated Sorted Array
+Binary Search
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/110297/offering/1280154
+Smallest Subarray With K Distinct Elements
+Sliding Window Algorithm
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/110297/offering/1266129
+Other Questions Practice Link
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/110297/offering/1266128
+Multi Dimensional Arrays
+Search In Row Wise And Column Wise Sorted Matrix
+Binary Search
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111356/offering/1280160
+Inplace Rotate Matrix By 90 degree
+Adhoc Problem
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111356/offering/1280165
+Matrix Median
+Binary Search
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111356/offering/1280164
+Other Questions Practice Link
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111356/offering/1281375
+Strings
+Longest Substring Without Repeating Characters
+Sliding Window
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111306/offering/1280180
+Anagram Difference
+Hashmap
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111306/offering/1280171
+Shortest substring with all characters
+Two Pointers
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111306/offering/1280173
+Minimum operations to make strings equal
+Hashmap
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111306/offering/1280177
+Other Questions Practice Link
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111306/offering/1376442
+Recursion & Backtracking
+Print Permutations Of String
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111357/offering/1281145
+Return Subsets Sum to K
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111357/offering/1281134
+Sudoku?
+2d array backtracking
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111357/offering/1281144
+Replace ‘O’ with ‘X’
+2d array backtracking
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111357/offering/1281142
+Reach Destination
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111357/offering/1281135
+Other Questions Practice link
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111357/offering/1281370
+Linked List
+Merge Two Sorted Linked List
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111308/offering/1279696
+Detect And Remove Loop
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111308/offering/1279697
+Reverse List In K Groups
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111308/offering/1281410
+Intersection Of Two Linked List
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111308/offering/1279690
+Sum Between Zeros
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111308/offering/1279693
+Other Questions Practice Link
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111308/offering/1281387
+Stacks & Queues
+Implement Stack Using Linked List
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111328/offering/1279905
+Next Greater Element
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111328/offering/1279906
+Implement Queue Using Stack
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111328/offering/1279910
+LRU Cache Implementation
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111328/offering/1279914
+Evaluation Of Post Fix Expression
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111328/offering/1279914
+Other Questions Practice Link
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111328/offering/1281388
+Binary Trees
+Binary Tree From Parent Array
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111329/offering/1279917
+Maximum Sum Path From Root To Leaf
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111329/offering/1281281
+Print Node At Distance K From Given node
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111329/offering/1281284
+Maximum Width In Binary Tree
+Hashmap
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111329/offering/1281269
+Time To Burn Tree
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111329/offering/1281279
+Practice Link
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111329/offering/1281385
+BST
+Delete In BST
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111461/offering/1281369
+Sorted Linked List To Balanced BST
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111461/offering/1281373
+Kth Smallest Element In BST
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111461/offering/1281373
+Binary Tree To BST
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111461/offering/1281379
+Pair Sum in BST
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111461/offering/1281380
+Other Questions Practice Link
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111461/offering/1281381
+Priority Queues & Heaps
+Running Median
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111440/offering/1281209
+Convert Min Heap To Max Heap
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111440/offering/1281201
+Kth Largest Element In Unsorted Array
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111440/offering/1281202
+K Most Frequent Words
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111440/offering/1281211
+Last Stone Weight
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111440/offering/1281210
+Other Questions Practice Link
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111440/offering/1376429
+Graphs
+Is Graph A Tree?
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111441/offering/1281220
+M Coloring Problem
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111441/offering/1281222
+Snake And Ladder
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111441/offering/1281217
+Shortest Path In Unweighted Graph
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111441/offering/1281225
+Alien Dictionary
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111441/offering/1281214
+Other Questions Practice Link
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111441/offering/1376430
+Dynamic Programming
+Edit Distance
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111442/offering/1281247
+Rod Cutting Problem
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111442/offering/1281243
+Longest Palindromic Substring
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111442/offering/1281234
+Knapsack
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111442/offering/1281252
+Palindrome Partioning
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111442/offering/1281232
+Other Questions Practice Link
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111442/offering/1376431
+Other Important Questions
+Implement Hashmap
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111307/offering/1376449
+Implement Trie
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111307/offering/1376454
+Implement Deque
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111307/offering/1376451
+Questions Practice Link
+https://www.codingninjas.com/codestudio/guided-paths/interview-guide-for-product-based-companies/content/111307/offering/1376448
